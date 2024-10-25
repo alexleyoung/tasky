@@ -4,7 +4,7 @@ A simple CLI to manage tasks stored in a SQLite database.
 
 ## Why Another Task Manager?
 
-I just like writing Go and wanted to learn how to use SQLite ;-;
+I just like writing Go and wanted to learn how to use SQLite 😭
 
 ## Features
 
