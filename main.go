@@ -1,5 +1,11 @@
+/*
+Copyright © 2024 NAME HERE <EMAIL ADDRESS>
+
+*/
 package main
 
+import "github.com/alexleyoung/tasky/cmd"
+
 func main() {
-	println("Hello, World!")
+	cmd.Execute()
 }
