@@ -1,10 +1,9 @@
 /*
-Copyright © 2024 NAME HERE <EMAIL ADDRESS>
-
+Copyright © 2024 Alex Young
 */
 package main
 
-import "github.com/alexleyoung/tasky/cmd"
+import "github.com/alexleyoung/taksy-cli/cmd"
 
 func main() {
 	cmd.Execute()
