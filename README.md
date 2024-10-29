@@ -1,4 +1,4 @@
-# Tasky
+# Tasky CLI
 
 A simple CLI to manage tasks stored in a SQLite database.
 
